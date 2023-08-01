@@ -1,4 +1,4 @@
-import TopBar from "TopBar/TopBar";
+import TopBar from "topbar/TopBar";
 import Home from "pages/home/Home";
 
 function App() {
@@ -6,7 +6,6 @@ function App() {
     <>
       <TopBar/>
       <Home/>
-  
     </>
   );
 }
